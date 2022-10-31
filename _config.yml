@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hao Peng"
 title_separator          : "-"
 name                     : &name "Hao Peng"
-description              : &description "Researcher in natural language processing and machine learning"
+description              : &description "researcher in natural language processing and machine learning"
 url                      : https://haopeng-nlp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haopeng-nlp/haopeng-nlp.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Hao Peng"
+  avatar           : "avatar.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
