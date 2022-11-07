@@ -162,28 +162,24 @@ In <em>Proceedings of the Annual Meeting of the Association for Computational Li
 [<a href="https://github.com/Noahs-ARK/NeurboParser?files=1">code</a>]
 [<a href="poster/peng2017deep.pdf">poster</a>]
 
-* <a href="paper/peng2016news.pdf">
-News Citation Recommendation with Implicit and Explicit Semantics</a><br/>
+* <a href="paper/peng2016news.pdf">News Citation Recommendation with Implicit and Explicit Semantics</a><br/>
 Hao Peng, <a href="http://ir.hit.edu.cn/~jliu/">Jing Liu</a>, and <a href="https://www.microsoft.com/en-us/research/people/cyl/">Chin-Yew Lin</a><br/>
 In <em>Proceedings of the Annual Meeting of the Association for Computational Linguisticss</em> (ACL), 2016<br/>
 [<a href="bib/peng2016news.bib">bib</a>]
 
-* <a href="paper/allamanis16convolutional.pdf">
-A Convolutional Attention Network for Extreme Summarization of Source Code</a><br/>
+* <a href="paper/allamanis16convolutional.pdf">A Convolutional Attention Network for Extreme Summarization of Source Code</a><br/>
 <a href="https://miltos.allamanis.com">Miltiadis Allamanis</a>, Hao Peng, and <a href="http://homepages.inf.ed.ac.uk/csutton/">Charles Sutton</a><br/>
 In <em>Proceedings of the International Conference on Machine Learning</em> (ICML), 2016<br/>
 [<a href="bib/allamanis2016convolutional.bib">bib</a>]
 [<a href="https://github.com/mast-group/convolutional-attention">code by Miltos</a>]
 [<a href="https://miltos.allamanis.com/publications/2016convolutional/">data</a>]
 
-* <a href="paper/mou2015discriminative.pdf">
-Discriminative Neural Sentence Modeling by Tree-based Convolution</a><br/>
+* <a href="paper/mou2015discriminative.pdf">Discriminative Neural Sentence Modeling by Tree-based Convolution</a><br/>
 <a href="https://lili-mou.github.io">Lili Mou</a>*, Hao Peng*, Ge Li, Yan Xu, Lu Zhang, and Zhi Jin. (*: Equal contribution)<br/>
 In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing</em> (EMNLP), 2015<br/>
 [<a href="bib/mou2015discriminative.bib">bib</a>]
 
-* <a href="paper/xu2015classifying.pdf">
-Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths</a><br/>
+* <a href="paper/xu2015classifying.pdf">Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths</a><br/>
 Yan Xu, <a href="https://lili-mou.github.io">Lili Mou</a>, Ge Li, Yunchuan Chen, Hao Peng, and Zhi Jin<br/>
 In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing</em> (EMNLP), 2015<br/>
 [<a href="bib/xu2015classifying.bib">bib</a>]
