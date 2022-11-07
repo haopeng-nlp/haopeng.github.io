@@ -3,7 +3,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-		<a href="paper/peng2021abc.pdf">ABC: Attention with Bounded-memory Control</a><br/>
+		
+		* <a href="paper/peng2021abc.pdf">ABC: Attention with Bounded-memory Control</a>
 	    Hao Peng, 
 	    <a href="https://homes.cs.washington.edu/~jkasai/">Jungo Kasai</a>, 
 	    <a href="https://nik0spapp.github.io">Nikolaos Pappas</a>, 
@@ -12,9 +13,9 @@ author_profile: true
 	    <a href="https://ikekonglp.github.io">Lingpeng Kong</a>,
 	    <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
 	    and
-	    <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-	    In <span style="font-style: italic;">Proceedings of the Annual Meeting of the Association for Computational Linguistics</span> (ACL), 2022<br/>
-      
+	    <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>
+	    In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics</em> (<b>ACL 2022</b>).
+    
         <a href="https://arxiv.org/abs/2107.07150">Tailor: Generating and Perturbing Text with Semantic Controls</a><br/>
         <a href="https://homes.cs.washington.edu/~wtshuang/">Tongshuang Wu</a>,
         <a href="https://alexisjihyeross.github.io">Alexis Ross</a>, 
@@ -24,7 +25,6 @@ author_profile: true
         <a href="https://matt-gardner.github.io">Matt Gardner</a><br/>
         In <span style="font-style: italic;">Proceedings of the Annual Meeting of the Association for Computational Linguistics</span> (ACL), 2022<br/>
       
-
 
         <a href="paper/kasai2021t2r.pdf">Finetuning Pretrained Transformers into RNNs</a><br/>
         <a href="https://homes.cs.washington.edu/~jkasai/">Jungo Kasai</a>, 
