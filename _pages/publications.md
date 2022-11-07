@@ -4,8 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 ### 2022	
-	
+
+
 		* <a href="paper/peng2021abc.pdf">ABC: Attention with Bounded-memory Control</a>
 	    Hao Peng, 
 	    <a href="https://homes.cs.washington.edu/~jkasai/">Jungo Kasai</a>, 
