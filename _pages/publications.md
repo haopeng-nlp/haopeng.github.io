@@ -14,7 +14,7 @@ author_profile: true
 	    <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
 	    and
 	    <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-	    Preprint, 2021<br/>
+	    In <span style="font-style: italic;">Proceedings of the Annual Meeting of the Association for Computational Linguistics</span> (ACL), 2022<br/>
       
         <a href="https://arxiv.org/abs/2107.07150">Tailor: Generating and Perturbing Text with Semantic Controls</a><br/>
         <a href="https://homes.cs.washington.edu/~wtshuang/">Tongshuang Wu</a>,
@@ -23,7 +23,7 @@ author_profile: true
         Matthew E. Peters, 
         and
         <a href="https://matt-gardner.github.io">Matt Gardner</a><br/>
-        Preprint, 2021
+        In <span style="font-style: italic;">Proceedings of the Annual Meeting of the Association for Computational Linguistics</span> (ACL), 2022<br/>
       
 
 
@@ -104,7 +104,7 @@ author_profile: true
         <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
         Dianqi Li, 
         and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-        In <span style="font-style: italic;">Proceedings of the Association for Computational Linguistic</span> (ACL), 2020<br/> 
+        In <span style="font-style: italic;">Proceedings of the Annual Meeting of the Association for Computational Linguistics</span> (ACL), 2020<br/> 
         [<a href="bib/peng2020mixture.bib">bib</a>]
         [<a href="https://github.com/Noahs-ARK/MAE">code</a>]
         [<a href="slides/peng2020mae.pdf">slides</a>]
@@ -160,7 +160,7 @@ author_profile: true
       
         <a href="paper/peng2018backprop.pdf">Backpropagating through Structured Argmax using a SPIGOT</a><br/>
         Hao Peng, <a href="http://samthomson.com">Sam Thomson</a>,  and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-        In <span style="font-style: italic;">Proceedings of the Association for Computational Linguistic</span> (ACL), 2018<br/> 
+        In <span style="font-style: italic;">Proceedings of the Annual Meeting of the Association for Computational Linguistics</span> (ACL), 2018<br/> 
         <span class="label label-default">Best Paper Honorable Mention</span><br>
         [<a href="bib/peng2018backprop.bib">bib</a>]
         [<a href="slides/peng2018backprop.pdf">slides</a>]
@@ -186,7 +186,7 @@ author_profile: true
       
         <a href="paper/peng2017deep.pdf">Deep Multitask Learning for Semantic Dependency Parsing</a><br/>
         Hao Peng, <a href="http://samthomson.com">Sam Thomson</a>, and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-        In <span style="font-style: italic;">Proceedings of the Association for Computational Linguistic</span> (ACL), 2017<br/>
+        In <span style="font-style: italic;">Proceedings of the Annual Meeting of the Association for Computational Linguistics</span> (ACL), 2017<br/>
         [<a href="bib/peng2017deep.bib">bib</a>]
         [<a href="https://github.com/Noahs-ARK/NeurboParser?files=1">code</a>]
         [<a href="poster/peng2017deep.pdf">poster</a>]
@@ -196,7 +196,7 @@ author_profile: true
       <a href="paper/peng2016news.pdf">
       News Citation Recommendation with Implicit and Explicit Semantics</a><br/>
       Hao Peng, <a href="http://ir.hit.edu.cn/~jliu/">Jing Liu</a>, and <a href="https://www.microsoft.com/en-us/research/people/cyl/">Chin-Yew Lin</a><br/>
-      In <span style="font-style: italic;">Proceedings of the Association for Computational Linguistics</span> (ACL), 2016<br/>
+      In <span style="font-style: italic;">Proceedings of the Annual Meeting of the Association for Computational Linguisticss</span> (ACL), 2016<br/>
         [<a href="bib/peng2016news.bib">bib</a>]
       
 
