@@ -106,8 +106,7 @@ In <em>Proceedings of the Conference of the North American Chapter of the Associ
 * <a href="paper/peng2018rational.pdf">Rational Recurrences</a><br/>
 Hao Peng,
 <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
-<a href="http://samthomson.com">Sam Thomson</a>,  
-and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
+<a href="http://samthomson.com">Sam Thomson</a>, and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
 In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2018<br/> 
 
 * <a href="paper/peng2018backprop.pdf">Backpropagating through Structured Argmax using a SPIGOT</a><br/>
@@ -136,7 +135,7 @@ In <em>Proceedings of the Annual Meeting of the Association for Computational Li
 In <em>Proceedings of the International Conference on Machine Learning (ICML)</em>, 2016<br/>
 
 * <a href="paper/mou2015discriminative.pdf">Discriminative Neural Sentence Modeling by Tree-based Convolution</a><br/>
-<a href="https://lili-mou.github.io">Lili Mou</a>*, Hao Peng*, Ge Li, Yan Xu, Lu Zhang, and Zhi Jin. (*: Equal contribution)<br/>
+<a href="https://lili-mou.github.io">Lili Mou</a>\*, Hao Peng\*, Ge Li, Yan Xu, Lu Zhang, and Zhi Jin (\*: Equal contribution)<br/>
 In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2015<br/>
 
 * <a href="paper/xu2015classifying.pdf">Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths</a><br/>
