@@ -8,17 +8,17 @@ author_profile: true
 ### 2022	
 
 
-		* <a href="paper/peng2021abc.pdf">ABC: Attention with Bounded-memory Control</a>
-	    Hao Peng, 
-	    <a href="https://homes.cs.washington.edu/~jkasai/">Jungo Kasai</a>, 
-	    <a href="https://nik0spapp.github.io">Nikolaos Pappas</a>, 
-	    <a href="https://dyogatama.github.io">Dani Yogatama</a>,
-	    <a href="https://zhaofengwu.github.io">Zhaofeng Wu</a>,
-	    <a href="https://ikekonglp.github.io">Lingpeng Kong</a>,
-	    <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
-	    and
-	    <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>
-	    In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics</em> (<b>ACL 2022</b>).
+* <a href="paper/peng2021abc.pdf">ABC: Attention with Bounded-memory Control</a>
+Hao Peng, 
+<a href="https://homes.cs.washington.edu/~jkasai/">Jungo Kasai</a>, 
+<a href="https://nik0spapp.github.io">Nikolaos Pappas</a>, 
+<a href="https://dyogatama.github.io">Dani Yogatama</a>,
+<a href="https://zhaofengwu.github.io">Zhaofeng Wu</a>,
+<a href="https://ikekonglp.github.io">Lingpeng Kong</a>,
+<a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
+and
+<a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>
+In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics</em> (<b>ACL 2022</b>).
     
         <a href="https://arxiv.org/abs/2107.07150">Tailor: Generating and Perturbing Text with Semantic Controls</a><br/>
         <a href="https://homes.cs.washington.edu/~wtshuang/">Tongshuang Wu</a>,
