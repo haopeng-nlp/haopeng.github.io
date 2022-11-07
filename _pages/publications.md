@@ -118,8 +118,7 @@ In <em>Proceedings of the Conference on Empirical Methods in Natural Language Pr
 * <a href="paper/peng2019text.pdf">Text Generation with Exemplar-based Adaptive Decoding</a><br/>
 Hao Peng, <a href="https://www.cs.cmu.edu/~apparikh/">Ankur P. Parikh</a>, <a href="https://www.manaalfaruqui.com">Manaal Faruqui</a>, 
 <a href="http://www.cs.cmu.edu/~bdhingra/">Bhuwan Dhingra</a>,
-and <a href="http://www.dipanjandas.com">Dipanjan Das</a>
-<br/>
+and <a href="http://www.dipanjandas.com">Dipanjan Das</a><br/>
 In <em>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics</em> (NAACL), 2019<br/>
 [<a href="bib/peng2019text.bib">bib</a>]
 [<a href="slides/peng2019text.pdf">slides</a>]
