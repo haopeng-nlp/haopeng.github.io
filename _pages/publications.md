@@ -27,7 +27,7 @@ Hao Peng,
 Matthew E. Peters, 
 and
 <a href="https://matt-gardner.github.io">Matt Gardner</a><br/>
-In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics</em> (ACL), 2022<br/>
+In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2022<br/>
 
 * <a href="paper/kasai2021t2r.pdf">Finetuning Pretrained Transformers into RNNs</a><br/>
 <a href="https://homes.cs.washington.edu/~jkasai/">Jungo Kasai</a>, 
@@ -40,7 +40,7 @@ Hao Peng,
 <a href="https://www.microsoft.com/en-us/research/people/wzchen/">Weizhu Chen</a>, 
 and
 <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing</em> (EMNLP), 2021<br/>
+In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2021<br/>
 
 * <a href="paper/peng2021rfa.pdf">Random Feature Attention</a><br/>
 Hao Peng,
@@ -50,7 +50,7 @@ Hao Peng,
 <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>,
 and 
 <a href="https://ikekonglp.github.io">Lingpeng Kong</a><br/>
-In <em>Proceedings of the International Conference on Learning Representations</em> (ICLR), 2021<br/> 
+In <em>Proceedings of the International Conference on Learning Representations (ICLR)</em>, 2021<br/> 
 <span class="label label-default">Spotlight</em><br>
 
 * <a href="https://arxiv.org/abs/2006.10369">Deep Encoder, Shallow Decoder: Reevaluating the Speed-Quality Tradeoff in Machine Translation</a><br/>
@@ -59,7 +59,7 @@ In <em>Proceedings of the International Conference on Learning Representations</
 Hao Peng, 
 James Cross,
 and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-In <em>Proceedings of the International Conference on Learning Representations</em> (ICLR), 2021<br/> 
+In <em>Proceedings of the International Conference on Learning Representations (ICLR)</em>, 2021<br/> 
 
 * <a href="https://arxiv.org/abs/2009.07502">Contextualized Perturbation for Textual Adversarial Attack</a><br/>
 Dianqi Li,
@@ -69,76 +69,76 @@ Liqun Chen,
 <a href="https://www.microsoft.com/en-us/research/people/chrisbkt/">Chris Brockett</a>,
 <a href="https://people.ece.uw.edu/sun/">Ming-Ting Sun</a>,
 and <a href="https://www.microsoft.com/en-us/research/people/billdol/">Bill Dolan</a><br/>
-In <em>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics</em> (NAACL), 2021<br/> 
+In <em>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</em>, 2021<br/> 
 
 * <a href="paper/wu2020infusing.pdf">Infusing Finetuning with Semantic Dependencies</a><br/>
 <a href="https://zhaofengwu.github.io">Zhaofeng Wu</a>,
 Hao Peng, 
 and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-<em>Transactions of the Association for Computational Linguistics</em> (TACL), 2020<br/>
+<em>Transactions of the Association for Computational Linguistics (TACL)</em>, 2020<br/>
 
 * <a href="paper/peng2020mixture.pdf">A Mixture of h − 1 Heads is Better than h Heads</a><br/>
 Hao Peng,
 <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
 Dianqi Li, 
 and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics</em> (ACL), 2020<br/> 
+In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2020<br/> 
 
 * <a href="paper/peng2019palm.pdf">PaLM: A Hybrid Parser and Language Model</a><br/>
 Hao Peng,
 <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
 and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing</em> (EMNLP), 2019<br/> 
+In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2019<br/> 
 
 * <a href="paper/dodge2019rnn.pdf">RNN Architecture Learning with Sparse Regularization</a><br/>
 <a href="http://www.cs.cmu.edu/~jessed/">Jesse Dodge</a>,
 <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
 Hao Peng,
 and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing</em> (EMNLP), 2019<br/> 
+In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2019<br/> 
 
 * <a href="paper/peng2019text.pdf">Text Generation with Exemplar-based Adaptive Decoding</a><br/>
 Hao Peng, <a href="https://www.cs.cmu.edu/~apparikh/">Ankur P. Parikh</a>, <a href="https://www.manaalfaruqui.com">Manaal Faruqui</a>, 
 <a href="http://www.cs.cmu.edu/~bdhingra/">Bhuwan Dhingra</a>,
 and <a href="http://www.dipanjandas.com">Dipanjan Das</a><br/>
-In <em>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics</em> (NAACL), 2019<br/>
+In <em>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</em>, 2019<br/>
 
 * <a href="paper/peng2018rational.pdf">Rational Recurrences</a><br/>
 Hao Peng,
 <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
 <a href="http://samthomson.com">Sam Thomson</a>,  
 and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing</em> (EMNLP), 2018<br/> 
+In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2018<br/> 
 
 * <a href="paper/peng2018backprop.pdf">Backpropagating through Structured Argmax using a SPIGOT</a><br/>
 Hao Peng, <a href="http://samthomson.com">Sam Thomson</a>,  and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics</em> (ACL), 2018<br/> 
+In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2018<br/> 
 <span class="label label-default">Best Paper Honorable Mention</em><br>
 
 * <a href="paper/peng2018learning.pdf">Learning Joint Semantic Parsers from Disjoint Data</a><br/>
 Hao Peng, <a href="http://samthomson.com">Sam Thomson</a>, <a href="http://www.cs.cmu.edu/~sswayamd/">Swabha Swayamdipta</a>, and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-In <em>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics</em> (NAACL), 2018<br/>
+In <em>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</em>, 2018<br/>
 
 * <a href="paper/tan2018you.pdf">"You are no Jack Kennedy": On Media Selection of Highlights from Presidential Debate</a><br/>
 <a href="https://chenhaot.com">Chenhao Tan</a>, Hao Peng, and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-In <em>Proceedings of The Web Conference</em> (WWW), 2018<br/>
+In <em>Proceedings of The Web Conference (WWW)</em>, 2018<br/>
 
 * <a href="paper/peng2017deep.pdf">Deep Multitask Learning for Semantic Dependency Parsing</a><br/>
 Hao Peng, <a href="http://samthomson.com">Sam Thomson</a>, and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
-In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics</em> (ACL), 2017<br/>
+In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2017<br/>
 
 * <a href="paper/peng2016news.pdf">News Citation Recommendation with Implicit and Explicit Semantics</a><br/>
 Hao Peng, <a href="http://ir.hit.edu.cn/~jliu/">Jing Liu</a>, and <a href="https://www.microsoft.com/en-us/research/people/cyl/">Chin-Yew Lin</a><br/>
-In <em>Proceedings of the Annual Meeting of the Association for Computational Linguisticss</em> (ACL), 2016<br/>
+In <em>Proceedings of the Annual Meeting of the Association for Computational Linguisticss (ACL)</em>, 2016<br/>
 
 * <a href="paper/allamanis16convolutional.pdf">A Convolutional Attention Network for Extreme Summarization of Source Code</a><br/>
 <a href="https://miltos.allamanis.com">Miltiadis Allamanis</a>, Hao Peng, and <a href="http://homepages.inf.ed.ac.uk/csutton/">Charles Sutton</a><br/>
-In <em>Proceedings of the International Conference on Machine Learning</em> (ICML), 2016<br/>
+In <em>Proceedings of the International Conference on Machine Learning (ICML)</em>, 2016<br/>
 
 * <a href="paper/mou2015discriminative.pdf">Discriminative Neural Sentence Modeling by Tree-based Convolution</a><br/>
 <a href="https://lili-mou.github.io">Lili Mou</a>*, Hao Peng*, Ge Li, Yan Xu, Lu Zhang, and Zhi Jin. (*: Equal contribution)<br/>
-In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing</em> (EMNLP), 2015<br/>
+In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2015<br/>
 
 * <a href="paper/xu2015classifying.pdf">Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths</a><br/>
 Yan Xu, <a href="https://lili-mou.github.io">Lili Mou</a>, Ge Li, Yunchuan Chen, Hao Peng, and Zhi Jin<br/>
-In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing</em> (EMNLP), 2015<br/>
+In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2015<br/>
