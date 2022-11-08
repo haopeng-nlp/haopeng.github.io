@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_g-40NwAAAAJ&hl=en"
   email            : "haop@allenai.org"
-  researchgate     : "https://www.semanticscholar.org/author/Hao-Peng/1818378366"
+  researchgate     : # "https://www.semanticscholar.org/author/Hao-Peng/1818378366"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/haopeng-nlp"
+  github           : "haopeng-nlp"
   google_plus      :
   keybase          :
   instagram        :
