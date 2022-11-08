@@ -176,7 +176,7 @@ In <em>Proceedings of the Annual Meeting of the Association for Computational Li
 Hao Peng, <a href="https://www.machinereading.ai/" style="text-decoration:none">Jing Liu</a>, and <a href="https://www.microsoft.com/en-us/research/people/cyl/" style="text-decoration:none">Chin-Yew Lin</a>.
 In <em>Proceedings of the Annual Meeting of the Association for Computational Linguisticss (ACL)</em>, 2016.
 
-* <a href="https://arxiv.org/abs/1602.03001" style="text-decoration:none">A **Convolutional Attention Network for Extreme Summarization of Source Code.**</a>
+* <a href="https://arxiv.org/abs/1602.03001" style="text-decoration:none">**A Convolutional Attention Network for Extreme Summarization of Source Code.**</a>
 <a href="https://miltos.allamanis.com" style="text-decoration:none">Miltiadis Allamanis</a>, Hao Peng, and <a href="http://homepages.inf.ed.ac.uk/csutton/" style="text-decoration:none">Charles Sutton</a>.
 In <em>Proceedings of the International Conference on Machine Learning (ICML)</em>, 2016.
 
