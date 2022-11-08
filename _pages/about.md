@@ -18,6 +18,6 @@ and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/).
 
 
 **Prospective Students:** I am looking for graduate student this application cycle (starting Fall 2023). 
-Checkout an overview of [my research](https://github.com/haopeng-nlp/haopeng-nlp.github.io/blob/master/files/research.pdf).
+Checkout an overview of [my research](/files/research.pdf).
 Please apply to [UIUC CS Ph.D. program](https://grad.illinois.edu/admissions/apply) if you are interested in working with me.
 
