@@ -23,7 +23,7 @@ and
 <a href="http://homes.cs.washington.edu/~nasmith/" style="text-decoration:none">Noah A. Smith</a>.
 Preprint.
 
-* **How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers.**
+* <a href="https://arxiv.org/abs/2211.03495" style="text-decoration:none">**How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers.**</a>
 Michael Hassid,
 Hao Peng,
 Daniel Rotem,
