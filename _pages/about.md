@@ -17,7 +17,7 @@ I received my Ph.D. from the [University of Washington](https://www.washington.e
 and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/).
 
 
-*Prospective Students:* I am looking for graduate student this application cycle (starting Fall 2023). 
+**Prospective Students:** I am looking for graduate student this application cycle (starting Fall 2023). 
 Checkout an overview of my research.
 Please apply to [UIUC CS Ph.D. program](https://grad.illinois.edu/admissions/apply) if you are interested in working with me.
 
