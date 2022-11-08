@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Peng | AI2"
+title                    : "Hao Peng"
 title_separator          : "-"
 name                     : &name "Hao Peng"
 description              : &description "researcher in natural language processing and machine learning"
