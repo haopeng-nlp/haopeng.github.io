@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-* <a href="https://arxiv.org/abs/2210.00720" style="text-decoration:none">Complexity-Based Prompting for Multi-Step Reasoning</a>.
+* <a href="https://arxiv.org/abs/2210.00720" style="text-decoration:none">**Complexity-Based Prompting for Multi-Step Reasoning**</a>.
 <a href="https://franxyao.github.io/" style="text-decoration:none">Yao Fu</a>, 
 Hao Peng, 
 <a href="https://allenai.org/team/ashishs" style="text-decoration:none">Ashish Sabharwal</a>, 
