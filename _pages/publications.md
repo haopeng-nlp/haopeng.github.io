@@ -96,8 +96,8 @@ Hao Peng,
 <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>,
 and 
 <a href="https://ikekonglp.github.io">Lingpeng Kong</a>\
-In <em>Proceedings of the International Conference on Learning Representations (ICLR)</em>, 2021\ 
-<span class="label label-default">Spotlight</em><br>
+In <em>Proceedings of the International Conference on Learning Representations (ICLR)</em>, 2021\
+**Spotlight**\
 
 * <a href="https://arxiv.org/abs/2006.10369">Deep Encoder, Shallow Decoder: Reevaluating the Speed-Quality Tradeoff in Machine Translation</a>\
 <a href="https://homes.cs.washington.edu/~jkasai/">Jungo Kasai</a>,
@@ -105,7 +105,7 @@ In <em>Proceedings of the International Conference on Learning Representations (
 Hao Peng, 
 James Cross,
 and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>\
-In <em>Proceedings of the International Conference on Learning Representations (ICLR)</em>, 2021\ 
+In <em>Proceedings of the International Conference on Learning Representations (ICLR)</em>, 2021\
 
 * <a href="https://arxiv.org/abs/2009.07502">Contextualized Perturbation for Textual Adversarial Attack</a>\
 Dianqi Li,
@@ -115,7 +115,7 @@ Liqun Chen,
 <a href="https://www.microsoft.com/en-us/research/people/chrisbkt/">Chris Brockett</a>,
 <a href="https://people.ece.uw.edu/sun/">Ming-Ting Sun</a>,
 and <a href="https://www.microsoft.com/en-us/research/people/billdol/">Bill Dolan</a>\
-In <em>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</em>, 2021\ 
+In <em>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</em>, 2021\
 
 * <a href="https://arxiv.org/abs/2012.05395">Infusing Finetuning with Semantic Dependencies</a>\
 <a href="https://zhaofengwu.github.io">Zhaofeng Wu</a>,
@@ -128,20 +128,20 @@ Hao Peng,
 <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
 Dianqi Li, 
 and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>\
-In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2020\ 
+In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2020\
 
 * <a href="https://arxiv.org/abs/1909.02134">PaLM: A Hybrid Parser and Language Model</a>\
 Hao Peng,
 <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
 and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>\
-In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2019\ 
+In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2019\
 
 * <a href="https://aclanthology.org/D19-1110/">RNN Architecture Learning with Sparse Regularization</a>\
 <a href="http://www.cs.cmu.edu/~jessed/">Jesse Dodge</a>,
 <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
 Hao Peng,
 and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>\
-In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2019\ 
+In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2019\
 
 * <a href="https://arxiv.org/abs/1904.04428">Text Generation with Exemplar-based Adaptive Decoding</a>\
 Hao Peng, <a href="https://www.cs.cmu.edu/~apparikh/">Ankur P. Parikh</a>, <a href="https://www.manaalfaruqui.com">Manaal Faruqui</a>, 
@@ -153,12 +153,12 @@ In <em>Proceedings of the Conference of the North American Chapter of the Associ
 Hao Peng,
 <a href="https://schwartz-lab-huji.github.io">Roy Schwartz</a>,
 <a href="http://samthomson.com">Sam Thomson</a>, and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>\
-In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2018\ 
+In <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2018\
 
 * <a href="https://arxiv.org/abs/1805.04658">Backpropagating through Structured Argmax using a SPIGOT</a>\
 Hao Peng, <a href="http://samthomson.com">Sam Thomson</a>,  and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>\
-In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2018\ 
-<span class="label label-default">Best Paper Honorable Mention</em><br>
+In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2018\
+**Best Paper Honorable Mention**<br>
 
 * <a href="https://arxiv.org/abs/1804.05990">Learning Joint Semantic Parsers from Disjoint Data</a>\
 Hao Peng, <a href="http://samthomson.com">Sam Thomson</a>, <a href="https://swabhs.com/">Swabha Swayamdipta</a>, and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a>\
