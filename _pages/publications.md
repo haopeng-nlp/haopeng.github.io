@@ -4,7 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-* <a href="https://arxiv.org/abs/2210.07468">Transparency Helps Reveal When Language Models Learn Meaning</a></br>
+
+* <a href="https://arxiv.org/abs/2210.00720">Complexity-Based Prompting for Multi-Step Reasoning</a>\
+<a href="https://franxyao.github.io/">Yao Fu</a>, 
+Hao Peng, 
+<a href="https://allenai.org/team/ashishs">Ashish Sabharwal</a>, 
+<a href="https://allenai.org/team/peterc">Peter Clark</a>, 
+and
+<a href="https://allenai.org/team/tushark">Tushar Khot</a>\
+Preprint
+
+* <a href="https://arxiv.org/abs/2210.07468">Transparency Helps Reveal When Language Models Learn Meaning</a>\
 <a href="https://zhaofengwu.github.io/">Zhaofeng Wu</a>,
 <a href="https://lambdaviking.com/">William Merrill</a>,
 Hao Peng,
@@ -151,7 +161,7 @@ In <em>Proceedings of the Annual Meeting of the Association for Computational Li
 <span class="label label-default">Best Paper Honorable Mention</em><br>
 
 * <a href="https://arxiv.org/abs/1804.05990">Learning Joint Semantic Parsers from Disjoint Data</a><br/>
-Hao Peng, <a href="http://samthomson.com">Sam Thomson</a>, <a href="http://www.cs.cmu.edu/~sswayamd/">Swabha Swayamdipta</a>, and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
+Hao Peng, <a href="http://samthomson.com">Sam Thomson</a>, <a href="https://swabhs.com/">Swabha Swayamdipta</a>, and <a href="http://homes.cs.washington.edu/~nasmith/">Noah A. Smith</a><br/>
 In <em>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</em>, 2018<br/>
 
 * <a href="https://arxiv.org/abs/1802.08690">"You are no Jack Kennedy": On Media Selection of Highlights from Presidential Debate</a><br/>
@@ -163,7 +173,7 @@ Hao Peng, <a href="http://samthomson.com">Sam Thomson</a>, and <a href="http://h
 In <em>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2017<br/>
 
 * <a href="https://aclanthology.org/P16-1037/">News Citation Recommendation with Implicit and Explicit Semantics</a><br/>
-Hao Peng, <a href="http://ir.hit.edu.cn/~jliu/">Jing Liu</a>, and <a href="https://www.microsoft.com/en-us/research/people/cyl/">Chin-Yew Lin</a><br/>
+Hao Peng, <a href="https://www.machinereading.ai/">Jing Liu</a>, and <a href="https://www.microsoft.com/en-us/research/people/cyl/">Chin-Yew Lin</a><br/>
 In <em>Proceedings of the Annual Meeting of the Association for Computational Linguisticss (ACL)</em>, 2016<br/>
 
 * <a href="https://arxiv.org/abs/1602.03001">A Convolutional Attention Network for Extreme Summarization of Source Code</a><br/>
