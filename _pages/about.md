@@ -8,16 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Young Investigator at the [Allen Institute for Artificial Intelligence](https://allenai.org/).
-I will join the [Department of Computer Science at the University of Illinois at Urbana-Champaign (UIUC)](https://cs.illinois.edu/) as an Assistant Professor in August 2023.
-My research interests broadly spans *natural language processing* and *machine learning*.
+I am a Young Investigator at the <a href="https://allenai.org/" style="text-decoration:none">Allen Institute for Artificial Intelligence</a>.
+I will join the <a href="https://cs.illinois.edu/" style="text-decoration:none">Department of Computer Science at the University of Illinois at Urbana-Champaign (UIUC)</a>
+as an Assistant Professor in August 2023.
+My research interests broadly spans **natural language processing** and **machine learning**.
 My current interests primarily include making language AI more efficient and accessible, and grounding in large-scale language models.
 
-I received my Ph.D. from the [University of Washington](https://www.washington.edu/), advised by [Noah Smith](https://nasmith.github.io/),
-and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/).
+I received my Ph.D. from the 
+<a href="https://www.washington.edu/" style="text-decoration:none">University of Washington</a>,
+advised by
+<a href="https://nasmith.github.io/" style="text-decoration:none">Noah Smith</a>,
+and my Bachelors Degree from 
+<a href="https://english.pku.edu.cn/" style="text-decoration:none">Peking University</a>.
 
 
-**Prospective Students:** I am looking for graduate student this application cycle (starting Fall 2023). 
-Checkout an overview of [my research](/files/research.pdf).
-Please apply to [UIUC CS Ph.D. program](https://grad.illinois.edu/admissions/apply) if you are interested in working with me.
+**Prospective Students:** I am looking for graduate students this application cycle (starting Fall 2023). 
+Checkout <a href="files/research.pdf" style="text-decoration:none">an overview of my research</a>.
+Please apply to 
+<a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a>
+if you are interested in working with me.
 
