@@ -23,7 +23,7 @@ and my Bachelors Degree from
 
 
 **Prospective Students:** I am looking for graduate students this application cycle (starting Fall 2023). 
-Checkout <a href="files/research.pdf" style="text-decoration:none">an overview of my research</a>.
+Checkout <a href="https://haopeng-nlp.github.io/publications/" style="text-decoration:none">my research</a>.
 Please apply to 
 <a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a>
 if you are interested in working with me.
