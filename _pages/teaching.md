@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ author_profile: true
 Hao Peng, 
 <a href="https://reyhaneh.cs.illinois.edu/" style="text-decoration:none">Reyhaneh Jabbarvand, 
 and 
-<a href="http://blender.cs.illinois.edu/hengji.html" style="text-decoration:none">Heng Ji.  
+<a href="http://blender.cs.illinois.edu/hengji.html" style="text-decoration:none">Heng Ji.
 Preprint, 2023.
 
 * <a href="https://arxiv.org/abs/2305.10142" style="text-decoration:none">**Improving Language Model
