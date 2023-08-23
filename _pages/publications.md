@@ -4,7 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 * <a href="https://arxiv.org/abs/2305.10314" style="text-decoration:none">**LeTI: Learning to Generate from Textual Interactions.**</a>
 <a href="https://xingyaoww.github.io/" style="text-decoration:none">Xingyao Wang</a>, 
 Hao Peng, 
