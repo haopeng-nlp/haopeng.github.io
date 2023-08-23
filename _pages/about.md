@@ -18,7 +18,7 @@ and my Bachelors Degree from
 <a href="https://english.pku.edu.cn/" style="text-decoration:none">Peking University</a>.
 I've spent one year at the <a href="https://allenai.org/" style="text-decoration:none">Allen Institute for Artificial Intelligence</a> as a Young Investigator, and Microsoft Research, Google, and DeepMind as an intern.
 
-My research interests broadly spans **natural language processing** and **machine learning**.
+My research interest broadly spans **natural language processing** and **machine learning**.
 My current interests primarily include making language AI more efficient and accessible, and evaluating and improving large-scale language models' reasoning capabilities, factuality, and trustworthiness.
 
 
