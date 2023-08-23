@@ -51,7 +51,7 @@ Hao Peng,
 and 
 <a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>. 
 Challenges of Deploying Generative AI Workshop at ICML, 2023.
-**<a href="https://github.com/FranxYao/chain-of-thought-hub" style="text-decoration:none">Benchmark**</a>
+<a href="https://github.com/FranxYao/chain-of-thought-hub" style="text-decoration:none">**[Benchmark]**</a>
 
 
 * <a href="https://arxiv.org/abs/2301.12726" style="text-decoration:none">**Specializing
