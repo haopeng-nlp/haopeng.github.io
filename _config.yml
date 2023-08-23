@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hao Peng"
 title_separator          : "-"
-name                     : &name "Hao Peng"
+name                     : &name "Hao Peng | UIUC"
 description              : &description "researcher in natural language processing and machine learning"
 url                      : https://haopeng-nlp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hao Peng"
   avatar           : "CSE.jpg"
-  bio              : "Young investigator @ AI2"
-  location         : "Seattle, WA"
+  bio              : "Assistant Professor @ UIUC"
+  location         : "Urbana, IL"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=sl4q0WkAAAAJ"
-  email            : "haop@allenai.org"
+  email            : "haopen@illinois.edu"
   researchgate     : # "https://www.semanticscholar.org/author/Hao-Peng/1818378366"
   uri              :
   bitbucket        :
