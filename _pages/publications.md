@@ -5,6 +5,67 @@ author_profile: true
 ---
 
 
+<a href="https://xingyaoww.github.io/" style="text-decoration:none">Xingyao Wang</a>, 
+Hao Peng, 
+<a href="https://reyhaneh.cs.illinois.edu/" style="text-decoration:none">Reyhaneh Jabbarvand, 
+and 
+<a href="http://blender.cs.illinois.edu/hengji.html" style="text-decoration:none">Heng Ji.  
+* <a href="https://arxiv.org/abs/2305.10314" style="text-decoration:none">**LeTI: Learning to Generate from Textual Interactions.**</a>
+Preprint, 2023.
+
+* <a href="https://arxiv.org/abs/2305.10142" style="text-decoration:none">**Improving Language Model
+Negotiation with Self-Play and In-Context Learning from AI Feedback.**</a>
+<a href="https://franxyao.github.io/" style="text-decoration:none">Yao Fu</a>, 
+Hao Peng, 
+<a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>, 
+and 
+<a href="https://homepages.inf.ed.ac.uk/mlap/" style="text-decoration:none">Mirella Lapata</a>.  
+Preprint, 2023.
+
+* <a href="https://arxiv.org/abs/2307.09701" style="text-decoration:none">**Efficiency Pentathlon: A
+Standardized Arena for Efficiency Evaluation.**</a>
+Hao Peng, 
+<a href="https://awk.ai/" style="text-decoration:none">Qingqing Cao</a>, 
+<a href="https://jessedodge.github.io/" style="text-decoration:none">Jesse Dodge</a>, 
+Matthew E. Peters, 
+<a href="https://www.jaredfern.com/" style="text-decoration:none">Jared Fernandez</a>, 
+<a href="https://tomsherborne.github.io/" style="text-decoration:none">Tom Sherborne</a>, 
+<a href="https://kyleclo.github.io/" style="text-decoration:none">Kyle Lo</a>, 
+Sam Skjonsberg, 
+<a href="https://strubell.github.io/" style="text-decoration:none">Emma Strubell</a>, 
+Darrell Plessas, 
+<a href="https://beltagy.net/" style="text-decoration:none">Iz Beltagy</a>, 
+Evan Pete Walsh, 
+<a href="http://homes.cs.washington.edu/~nasmith/" style="text-decoration:none">Noah A. Smith</a>, 
+and 
+<a href="https://homes.cs.washington.edu/~hannaneh/" style="text-decoration:none">Hannaneh Hajishirzi</a>. 
+Preprint, 2023.
+
+* <a href="https://arxiv.org/abs/2305.17306" style="text-decoration:none">**Chain-of-
+Thought Hub: A Continuous Effort to Measure Large Language Models’ Reasoning
+Performance.**</a>
+<a href="https://franxyao.github.io/" style="text-decoration:none">Yao Fu</a>, 
+Litu Ou,
+Mingyu Chen, 
+Yuhao Wan, 
+Hao Peng, 
+and 
+<a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>. 
+Challenges of Deploying Generative AI Workshop at ICML, 2023.
+**<a href="https://github.com/FranxYao/chain-of-thought-hub" style="text-decoration:none">Benchmark**</a>
+
+
+* <a href="https://arxiv.org/abs/2301.12726" style="text-decoration:none">**Specializing
+Smaller Language Models towards Multi-Step Reasoning.**</a>
+<a href="https://franxyao.github.io/" style="text-decoration:none">Yao Fu</a>, 
+Hao Peng, 
+Litu Ou,
+<a href="https://allenai.org/team/ashishs" style="text-decoration:none">Ashish Sabharwal</a>, 
+and
+<a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>.
+In <em>Proceedings of the International Conference on Machine Learning (ICML)</em>, 2023.
+**Oral**.
+
 * <a href="https://arxiv.org/abs/2210.00720" style="text-decoration:none">**Complexity-Based Prompting for Multi-Step Reasoning.**</a>
 <a href="https://franxyao.github.io/" style="text-decoration:none">Yao Fu</a>, 
 Hao Peng, 
@@ -12,7 +73,7 @@ Hao Peng,
 <a href="https://allenai.org/team/peterc" style="text-decoration:none">Peter Clark</a>, 
 and
 <a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>.
-Preprint.
+In <em>Proceedings of the International Conference on Learning Representations (ICLR)</em>, 2023.
 
 * <a href="https://arxiv.org/abs/2210.07468" style="text-decoration:none">**Transparency Helps Reveal When Language Models Learn Meaning.**</a>
 <a href="https://zhaofengwu.github.io/" style="text-decoration:none">Zhaofeng Wu</a>,
@@ -21,7 +82,7 @@ Hao Peng,
 <a href="https://beltagy.net/" style="text-decoration:none">Iz Beltagy</a>,
 and
 <a href="http://homes.cs.washington.edu/~nasmith/" style="text-decoration:none">Noah A. Smith</a>.
-Preprint.
+<em>Transactions of the Association for Computational Linguistics (TACL)</em>, 2022.
 
 * <a href="https://arxiv.org/abs/2211.03495" style="text-decoration:none">**How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers.**</a>
 Michael Hassid,
