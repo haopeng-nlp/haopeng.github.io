@@ -7,9 +7,9 @@ author_profile: true
 * <a href="https://arxiv.org/abs/2305.10314" style="text-decoration:none">**LeTI: Learning to Generate from Textual Interactions.**</a>
 <a href="https://xingyaoww.github.io/" style="text-decoration:none">Xingyao Wang</a>, 
 Hao Peng, 
-<a href="https://reyhaneh.cs.illinois.edu/" style="text-decoration:none">Reyhaneh Jabbarvand, 
+<a href="https://reyhaneh.cs.illinois.edu/" style="text-decoration:none">Reyhaneh Jabbarvand</a>, 
 and 
-<a href="http://blender.cs.illinois.edu/hengji.html" style="text-decoration:none">Heng Ji.  
+<a href="http://blender.cs.illinois.edu/hengji.html" style="text-decoration:none">Heng Ji</a>.  
 Preprint, 2023.
 
 * <a href="https://arxiv.org/abs/2305.10142" style="text-decoration:none">**Improving Language Model
