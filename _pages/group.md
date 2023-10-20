@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: group
+title: Group
 permalink: /group/
 nav: true
 horizontal: false
