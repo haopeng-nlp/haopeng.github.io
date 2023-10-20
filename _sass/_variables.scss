@@ -96,6 +96,10 @@ $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
+$grey-color:          #828282 !default;
+$grey-color-light:    lighten($grey-color, 40%);
+$grey-color-dark:     #1C1C1D;
+
 
 /*
    Breakpoints
