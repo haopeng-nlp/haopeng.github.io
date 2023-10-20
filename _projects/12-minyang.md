@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minyang Tian
-description: UIUC Physics PhD student
+description: UIUC
 img: images/students/blue.jpeg
 <!--- redirect: -->
 importance: 12

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shivam Agarwal
-description: UIUC CS MS student
+description: CS MS student
 img: images/students/shivam.jpeg
 redirect: https://shivamag125.github.io/
 importance: 1

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Muhammad Khalifa
-description: UMich CS PhD student
+description: UMich
 img: images/students/muhammad.jpeg
 redirect: https://mukhal.github.io/
 importance: 10
