@@ -28,7 +28,7 @@ display_categories: ["Students", "Student Collaborators"]
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="col">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
