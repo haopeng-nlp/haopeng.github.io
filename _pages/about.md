@@ -28,6 +28,6 @@ Please apply to
 <a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a>
 if you are interested in working with me.
 
-**Personal**
+**Personal:**
 I cater to the whims of a trio of furry overlords: [Meera](images/meera.jpg), [Loki](images/loki.JPG), and [Sylvie](images/sylvie.jpg).
 When they release me from their service, I cycle in the summer, and (backcountry) ski in the winter. 
