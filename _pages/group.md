@@ -4,7 +4,7 @@ title: group
 permalink: /group/
 nav: true
 horizontal: false
-display_categories: ["Current Students", "Student Collaborators"]
+display_categories: ["Students", "Student Collaborators"]
 ---
 
 <!-- <h2 class="post-title">
