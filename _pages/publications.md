@@ -4,13 +4,50 @@ permalink: /publications/
 author_profile: true
 ---
 
-* <a href="https://arxiv.org/abs/2305.10314" style="text-decoration:none">**LeTI: Learning to Generate from Textual Interactions.**</a>
+* <a href="https://arxiv.org/abs/2310.03646" style="text-decoration:none">**TRAM: Bridging Trust Regions and Sharpness Aware Minimization.**</a>
+<a href="https://tomsherborne.github.io/" style="text-decoration:none">Tom Sherborne</a>, 
+<a href="https://nsaphra.net/" style="text-decoration:none">Naomi Saphra</a>, 
+<a href="https://pdasigi.github.io/" style="text-decoration:none">Pradeep Dasigi</a>, 
+and
+Hao Peng.
+Preprint, 2023.\
+<a href="https://github.com/tomsherborne/tram_optimizer" style="text-decoration:none">**[code]**</a>
+
+* <a href="https://arxiv.org/abs/2309.10691" style="text-decoration:none">**MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback.**</a>
 <a href="https://xingyaoww.github.io/" style="text-decoration:none">Xingyao Wang</a>, 
+<a href="https://zihanwangki.github.io/" style="text-decoration:none">Zihan Wang</a>, 
+<a href="https://lumos-jiateng.github.io/" style="text-decoration:none">Jiateng Liu</a>, 
+<a href="https://yangyi-chen.github.io/" style="text-decoration:none">Yangyi Chen</a>, 
+<a href="https://lifan-yuan.github.io/" style="text-decoration:none">Lifan Yuan</a>, 
 Hao Peng, 
-<a href="https://reyhaneh.cs.illinois.edu/" style="text-decoration:none">Reyhaneh Jabbarvand</a>, 
+and 
+<a href="http://blender.cs.illinois.edu/hengji.html" style="text-decoration:none">Heng Ji</a>.
+Preprint, 2023.\
+<a href="https://xingyaoww.github.io/mint-bench/" style="text-decoration:none">**[website]**</a>
+<a href="https://github.com/xingyaoww/mint-bench" style="text-decoration:none">**[code]**</a>
+<a href="https://github.com/xingyaoww/mint-bench/blob/main/docs/DATA.md" style="text-decoration:none">**[data]**</a>
+
+* <a href="https://arxiv.org/abs/2309.17428" style="text-decoration:none">**CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets.**</a>
+<a href="https://lifan-yuan.github.io/" style="text-decoration:none">Lifan Yuan</a>, 
+<a href="https://yangyi-chen.github.io/" style="text-decoration:none">Yangyi Chen</a>, 
+<a href="https://xingyaoww.github.io/" style="text-decoration:none">Xingyao Wang</a>, 
+<a href="https://scholar.google.com/citations?user=eUae2K0AAAAJ&hl=en" style="text-decoration:none">Yi R. Fung</a>,
+Hao Peng, 
 and 
 <a href="http://blender.cs.illinois.edu/hengji.html" style="text-decoration:none">Heng Ji</a>.  
-Preprint, 2023.
+Preprint, 2023.\
+<a href="https://github.com/lifan-yuan/CRAFT" style="text-decoration:none">**[code]**</a>
+
+* <a href="https://arxiv.org/abs/2310.09930" style="text-decoration:none">**FiLM: Fill-in Language Models for Any-Order Generation.**</a>
+<a href="https://shentianxiao.github.io/" style="text-decoration:none">Tianxiao Shen</a>, 
+Hao Peng, 
+<a href="https://homes.cs.washington.edu/~shenr3/" style="text-decoration:none">Ruoqi Shen</a>,
+<a href="https://franxyao.github.io/" style="text-decoration:none">Yao Fu</a>, 
+<a href="https://faculty.washington.edu/zaid/" style="text-decoration:none">Zaid Harchaoui</a>,
+and 
+<a href="https://homes.cs.washington.edu/~yejin/" style="text-decoration:none">Yejin Choi</a>.
+Preprint, 2023.\
+<a href="https://github.com/shentianxiao/FiLM" style="text-decoration:none">**[code]**</a>
 
 * <a href="https://arxiv.org/abs/2305.10142" style="text-decoration:none">**Improving Language Model
 Negotiation with Self-Play and In-Context Learning from AI Feedback.**</a>
@@ -19,7 +56,17 @@ Hao Peng,
 <a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>, 
 and 
 <a href="https://homepages.inf.ed.ac.uk/mlap/" style="text-decoration:none">Mirella Lapata</a>.  
-Preprint, 2023.
+Preprint, 2023.\
+<a href="https://github.com/FranxYao/GPT-Bargaining" style="text-decoration:none">**[code]**</a>
+
+* <a href="https://arxiv.org/abs/2305.10314" style="text-decoration:none">**LeTI: Learning to Generate from Textual Interactions.**</a>
+<a href="https://xingyaoww.github.io/" style="text-decoration:none">Xingyao Wang</a>, 
+Hao Peng, 
+<a href="https://reyhaneh.cs.illinois.edu/" style="text-decoration:none">Reyhaneh Jabbarvand</a>, 
+and 
+<a href="http://blender.cs.illinois.edu/hengji.html" style="text-decoration:none">Heng Ji</a>.  
+Preprint, 2023.\
+<a href="https://github.com/xingyaoww/LeTI" style="text-decoration:none">**[code]**</a>
 
 * <a href="https://arxiv.org/abs/2307.09701" style="text-decoration:none">**Efficiency Pentathlon: A
 Standardized Arena for Efficiency Evaluation.**</a>
@@ -38,7 +85,9 @@ Evan Pete Walsh,
 <a href="http://homes.cs.washington.edu/~nasmith/" style="text-decoration:none">Noah A. Smith</a>, 
 and 
 <a href="https://homes.cs.washington.edu/~hannaneh/" style="text-decoration:none">Hannaneh Hajishirzi</a>. 
-Preprint, 2023.
+Preprint, 2023.\
+<a href="https://github.com/allenai/efficiency-pentathlon" style="text-decoration:none">**[code]**</a>
+
 
 * <a href="https://arxiv.org/abs/2305.17306" style="text-decoration:none">**Chain-of-
 Thought Hub: A Continuous Effort to Measure Large Language Models’ Reasoning
@@ -49,9 +98,9 @@ Mingyu Chen,
 Yuhao Wan, 
 Hao Peng, 
 and 
-<a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>. 
+<a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>.\
 Challenges of Deploying Generative AI Workshop at ICML, 2023.
-<a href="https://github.com/FranxYao/chain-of-thought-hub" style="text-decoration:none">**[Benchmark]**</a>
+<a href="https://github.com/FranxYao/chain-of-thought-hub" style="text-decoration:none">**[website]**</a>
 
 
 * <a href="https://arxiv.org/abs/2301.12726" style="text-decoration:none">**Specializing
@@ -63,7 +112,9 @@ Litu Ou,
 and
 <a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>.
 In <em>Proceedings of the International Conference on Machine Learning (ICML)</em>, 2023.
-**Oral**.
+**Oral**.\
+<a href="https://github.com/FranxYao/FlanT5-CoT-Specialization" style="text-decoration:none">**[code]**</a>
+<a href="https://drive.google.com/drive/folders/1BOXcUTnEyvQia_ypHcaUnUbLsN4HzqmQ?usp=sharing" style="text-decoration:none">**[data]**</a>
 
 * <a href="https://arxiv.org/abs/2210.00720" style="text-decoration:none">**Complexity-Based Prompting for Multi-Step Reasoning.**</a>
 <a href="https://franxyao.github.io/" style="text-decoration:none">Yao Fu</a>, 
@@ -72,7 +123,8 @@ Hao Peng,
 <a href="https://allenai.org/team/peterc" style="text-decoration:none">Peter Clark</a>, 
 and
 <a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>.
-In <em>Proceedings of the International Conference on Learning Representations (ICLR)</em>, 2023.
+In <em>Proceedings of the International Conference on Learning Representations (ICLR)</em>, 2023.\
+<a href="https://github.com/FranxYao/Complexity-Based-Prompting" style="text-decoration:none">**[code]**</a>
 
 * <a href="https://arxiv.org/abs/2210.07468" style="text-decoration:none">**Transparency Helps Reveal When Language Models Learn Meaning.**</a>
 <a href="https://zhaofengwu.github.io/" style="text-decoration:none">Zhaofeng Wu</a>,
