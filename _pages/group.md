@@ -2,7 +2,7 @@
 title: Group
 permalink: /group/
 nav: true
-horizontal: true
+horizontal: false
 display_categories: ["Students", "Student Collaborators"]
 ---
 
