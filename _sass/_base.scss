@@ -319,10 +319,10 @@ nav {
 
   .card {
     img {
-      width: 275px;
-      height: 275px;
-      object-fit: fill;
-      border-radius: 30px;
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      // border-radius: $border-radius;
     }
     .card-title {
       color: $black-color;
@@ -334,7 +334,7 @@ nav {
       width: 200px;
       height: 200px;
       object-fit: cover;
-      border-radius: 30px;
+      //border-radius: $border-radius;
     }
     .card-title {
       color: $black-color;
@@ -346,7 +346,7 @@ nav {
       width: 200px;
       height: 200px;
       object-fit: cover;
-      border-radius: 30px;
+      border-radius: $border-radius;
     }
     .card-title {
       color: $black-color;
