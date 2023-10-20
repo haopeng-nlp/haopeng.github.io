@@ -1,5 +1,4 @@
 ---
-layout: lab
 title: Group
 permalink: /group/
 nav: true
